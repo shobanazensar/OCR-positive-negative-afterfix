@@ -1,0 +1,12 @@
+node_modules/
+dist/
+.env
+*.log
+test-results/
+playwright-report/
+cypress/screenshots/
+cypress/videos/
+cypress/reports/
+allure-results/
+allure-report/
+reports/

@@ -1,0 +1,27 @@
+{
+  "configId": "config-1779263931373-66pu7ny7f",
+  "app": "playwright-typescript-test-script-1779263931319",
+  "project": "playwright-typescript-test-script-1779263931319",
+  "url": "https://digital-onboarding-fe.bravesky-d9f9eeb7.eastus2.azurecontainerapps.io/",
+  "appUrl": "https://digital-onboarding-fe.bravesky-d9f9eeb7.eastus2.azurecontainerapps.io/",
+  "framework": "Playwright",
+  "language": "TypeScript",
+  "testType": "Web UI",
+  "mode": "test-script",
+  "testTypes": [
+    "Web UI"
+  ],
+  "locatorStrategy": "Application UI",
+  "locatorAppUrl": "https://digital-onboarding-fe.bravesky-d9f9eeb7.eastus2.azurecontainerapps.io/",
+  "locatorUsername": null,
+  "locatorPassword": null,
+  "pipeline": null,
+  "flowPreview": {
+    "enabled": true
+  },
+  "reports": [
+    "HTML"
+  ],
+  "outputDir": "/Users/s.sathyanathan/ZenseQI/zense_ai_qi/zense-ai-casegeni/zense-ai-qi-demo/agents/auto-playpilot/autopilot-ui/generated-projects/playwright-typescript-test-script-1779263931319",
+  "generatedAt": "2026-05-20T07:59:01.348Z"
+}
