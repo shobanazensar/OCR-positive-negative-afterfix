@@ -13,7 +13,7 @@ export default defineConfig({
   use: {
     baseURL: 'https://digital-onboarding-fe.bravesky-d9f9eeb7.eastus2.azurecontainerapps.io/',
     trace: 'on-first-retry',
-    screenshot: 'on',
+    screenshot: 'only-on-failure',
     video: 'retain-on-failure',
   },
   projects: [
